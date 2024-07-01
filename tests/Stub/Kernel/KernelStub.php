@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace EonX\EasyLock\Tests\Stub\HttpKernel;
+namespace EonX\EasyLock\Tests\Stub\Kernel;
 
 use EonX\EasyLock\Bundle\EasyLockBundle;
 use Psr\Log\LoggerInterface;
